@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @hdang03166
 
 - 👀 I’m interested in data analytics, business intelligence, operations, and process improvement.
-- 🌱 I’m currently learning Tableau and completing the Google Data Analytics Professional Certificate.
-- 💼 I have 8+ years of experience in operations, inventory control, and customer/sales analysis across retail and manufacturing environments.
+- 🌱 I’m currently learning Tableau and completing the Google Data Analytics Professional Certificate. I'm also practicing SQL and strengthening my problem-solving skills through InterviewMaster.ai by working through real-world coding challenges.
+- 💼 I have 11+ years of experience in operations, inventory control, and customer/sales analysis across retail and manufacturing environments.
 - 💡 I enjoy turning messy data into clear insights using tools like Excel, SQL, and Python.
 - 💞️ I’m looking to collaborate on data projects involving business performance, inventory trends, or workflow optimization.
 - 📫 You can reach me on www.linkedin.com/in/hai-dang316.
