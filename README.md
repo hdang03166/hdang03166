@@ -1,9 +1,10 @@
 # 👋 Hi, I’m @hdang03166
 
-- Data Analyst | Junior Data Scientist with 11+ years of experience in operations, inventory control, and customer/sales analysis in retail and manufacturing.
-- Proficient in SQL, Excel, and Tableau; currently advancing my skills through the Google Advanced Data Analytics Certificate and hands-on coding challenges.
-- Passionate about transforming complex data into actionable insights to drive business performance and process improvement.
-- Open to collaboration on data projects involving analytics, visualization, and workflow optimization.
+- Data Analytics Professional | Python • SQL • Learning ML  
+- 11+ years of experience in operations, inventory control, and customer/sales analysis in retail and manufacturing.  
+- Currently expanding my skills through the Google Advanced Data Analytics Certificate and hands-on coding challenges.  
+- Passionate about turning complex data into actionable insights to support business decisions and process improvements.  
+- Open to opportunities in data analyst and data scientist roles.  
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/hai-dang316).
 
 <!---
