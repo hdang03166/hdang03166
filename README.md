@@ -1,15 +1,11 @@
 # 👋 Hi, I’m @hdang03166
 
-- 👀 I’m interested in data analytics, business intelligence, operations, and process improvement.
-- 🌱 I’m currently learning Tableau and completing the Google Data Analytics Professional Certificate. I'm also practicing SQL and strengthening my problem-solving skills through SQLZoo, Dataford, and Interview Master by working through real-world coding challenges.
-- 💼 I have 11+ years of experience in operations, inventory control, and customer/sales analysis across retail and manufacturing environments.
-- 💡 I enjoy turning messy data into clear insights using tools like Excel and SQL.
-- 💞️ I’m looking to collaborate on data projects involving business performance, inventory trends, or workflow optimization.
-- 📫 You can reach me on www.linkedin.com/in/hai-dang316.
-- ⚡ Fun fact: I’ve been working since high school, and I love solving problems through data and continuous learning.
-
+- Data Analyst | Junior Data Scientist with 11+ years of experience in operations, inventory control, and customer/sales analysis in retail and manufacturing.
+- Proficient in SQL, Excel, and Tableau; currently advancing my skills through the Google Advanced Data Analytics Certificate and hands-on coding challenges.
+- Passionate about transforming complex data into actionable insights to drive business performance and process improvement.
+- Open to collaboration on data projects involving analytics, visualization, and workflow optimization.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/hai-dang316).
 
 <!---
 hdang03166/hdang03166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
