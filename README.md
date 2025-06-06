@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hdang03166
 
-## Data Analyst | Python • SQL • Tableau | Aspiring Data Scientist
+Data Analyst | Python • SQL • Tableau | Aspiring Data Scientist
 
 - 11+ years of experience in operations, inventory control, and sales analysis within retail and manufacturing.
 
