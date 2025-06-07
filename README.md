@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hdang03166
 
-Google-Certified Data Analyst | Advanced Business Analytics | SQL • Tableau • Excel
+Google-Certified Data Analyst | Business Analytics | SQL • Tableau • Excel
 
 - 11+ years of experience in operations, inventory control, and sales analysis in retail and manufacturing.
 
