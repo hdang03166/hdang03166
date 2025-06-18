@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @hdang03166
 
-Google-Certified Data Analyst | Business Analytics | SQL • Tableau • Excel
+Entry-Level Data Analyst | Google Data Analytics Certified | Operations & Sales Professional
 
-- 11+ years of experience in operations, inventory control, and sales analysis in retail and manufacturing.
+- Over a decade of experience in manufacturing and retail operations.
 
-- Currently advancing my business analytics skills through the Advanced Business Analytics Specialization on Coursera and hands-on coding projects.
+- Passionately curious about the data space and it's potential to evolve and drive smarter business decisions.
 
-- Passionate about turning complex data into actionable insights to drive smarter business decisions and process improvements.
+- Continuously leveling up my analytics skills through coursework, hands-on projects, and tools, such as SQL, Python, Power BI, and Excel, to become the best version of myself.
 
 - Let's connect on Linkedin:  [LinkedIn](https://www.linkedin.com/in/hai-dang316).
 
