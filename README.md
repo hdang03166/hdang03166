@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hdang03166
 
-Entry-Level Data Analyst | Google Data Analytics Certified | Operations & Sales Professional
+Entry-Level Data Analyst | Google-Certified | Operations & Sales Experience
 
 - Over a decade of experience in manufacturing and retail operations.
 
