@@ -2,11 +2,11 @@
 
 Entry-Level Data Analyst | Google-Certified | Operations & Sales Experience
 
-- Over a decade of experience in manufacturing and retail operations.
+- Over a decade of combined experience in operations and sales, now transitioning into data analytics with a passion for continous learning in the data space.
 
-- Passionately curious about the data space and it's potential to evolve and drive smarter business decisions.
+- Curious about the data space and it's potential to evolve and deliver actionable insights to businesses.
 
-- Continuously leveling up my analytics skills through coursework, hands-on projects, and tools, such as Excel, SQL, Python, Tableau, and Power BI, to become the best version of myself.
+- Continuously deepening my analytics skills through coursework, hands-on projects, and business intelligence tools, such as Tableau and Power BI, to become a well-rounded analyst.
 
 - Let's connect on Linkedin:  [LinkedIn](https://www.linkedin.com/in/hai-dang316).
 
