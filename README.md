@@ -2,11 +2,11 @@
 
 Entry-Level Data Analyst | Google-Certified | Operations & Sales Experience
 
-- With aver a decade of combined experience in operations and sales, I am transitioning into data analytics. I quickly discovered a passion for analytics and am excited to build a long-term career from it and see where it leads me.
+- With over a decade of combined experience in operations and sales, I am transitioning into data analytics. I quickly discovered a passion for analytics and am excited to build a long-term career from it and see where it leads me.
 
 - I am curious about how data continues to evolve and the limitless ways it can impact our daily lives.
 
-- I am continuously expanding my knowledge and skills through ceritificate courses and hands-on projects, aiming to add value and become a well-rounded analyst.
+- I am continuously expanding my knowledge and skills through certificate courses and hands-on projects, aiming to add value and become a well-rounded analyst.
 
 - Let's connect on Linkedin:  [LinkedIn](https://www.linkedin.com/in/hai-dang316).
 
